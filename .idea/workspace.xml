@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c1aa54-54fb-47e8-a3f8-fb124b964247" name="Changes" comment="Hola">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javafxpasoapaso/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javafxpasoapaso/HelloApplication.java" afterDir="false" />
+    <list default="true" id="76c1aa54-54fb-47e8-a3f8-fb124b964247" name="Changes" comment="He pusto los iconos.">
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669744301001</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="He pusto los iconos.">
+      <created>1669993547280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669993547280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,6 +70,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hola" />
+    <MESSAGE value="He pusto los iconos." />
+    <option name="LAST_COMMIT_MESSAGE" value="He pusto los iconos." />
   </component>
 </project>
