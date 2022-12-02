@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c1aa54-54fb-47e8-a3f8-fb124b964247" name="Changes" comment="Hola">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/buscar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/escribir.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/plus.png" afterDir="false" />
+    <list default="true" id="76c1aa54-54fb-47e8-a3f8-fb124b964247" name="Changes" comment="Tengo la interfaz falta los funcionamientos y mas cosas.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/icons/book.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/book.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/icons/cancel.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/cancel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/icons/check.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/check.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/icons/hand book.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/hand book.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/icons/logout.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/logout.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/icons/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javafxpasoapaso/user.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669994163523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tengo la interfaz falta los funcionamientos y mas cosas.">
+      <created>1669996945540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669996945540</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="He pusto los iconos." />
     <MESSAGE value="Hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hola" />
+    <MESSAGE value="Tengo la interfaz falta los funcionamientos y mas cosas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tengo la interfaz falta los funcionamientos y mas cosas." />
   </component>
 </project>
