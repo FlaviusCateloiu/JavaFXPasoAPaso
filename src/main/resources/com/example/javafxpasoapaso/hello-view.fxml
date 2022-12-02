@@ -65,32 +65,32 @@
                   <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <Label text="Code:" textFill="#bdf1d1">
+                  <Label fx:id="lCode" text="Code:" textFill="#bdf1d1">
                      <font>
                         <Font name="System Bold" size="13.0" />
                      </font></Label>
-                  <TextField GridPane.columnIndex="1" />
-                  <Label text="First Name:" textFill="#bdf1d1" GridPane.rowIndex="1">
+                  <TextField fx:id="tFCode" disable="true" GridPane.columnIndex="1" />
+                  <Label fx:id="lFirstName" text="First Name:" textFill="#bdf1d1" GridPane.rowIndex="1">
                      <font>
                         <Font name="System Bold" size="13.0" />
                      </font></Label>
-                  <Label text="Last Name:" textFill="#bdf1d1" GridPane.rowIndex="2">
+                  <Label fx:id="lLastName" text="Last Name:" textFill="#bdf1d1" GridPane.rowIndex="2">
                      <font>
                         <Font name="System Bold" size="13.0" />
                      </font></Label>
-                  <Label text="Birthdate:" textFill="#bdf1d1" GridPane.rowIndex="3">
+                  <Label fx:id="lBirthdate" text="Birthdate:" textFill="#bdf1d1" GridPane.rowIndex="3">
                      <font>
                         <Font name="System Bold" size="13.0" />
                      </font></Label>
-                  <TextField GridPane.columnIndex="1" GridPane.rowIndex="1" />
-                  <TextField GridPane.columnIndex="1" GridPane.rowIndex="2" />
-                  <DatePicker GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <TextField fx:id="tFFirstName" disable="true" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <TextField fx:id="tFLastName" disable="true" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                  <DatePicker fx:id="dPBirthdate" disable="true" GridPane.columnIndex="1" GridPane.rowIndex="3" />
                </children>
                <padding>
                   <Insets left="20.0" right="20.0" />
                </padding>
             </GridPane>
-            <GridPane style="-fx-background-color: #41af97;" AnchorPane.bottomAnchor="56.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="56.0">
+            <GridPane style="-fx-background-color: #41af97;" visible="false" AnchorPane.bottomAnchor="56.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="56.0">
               <columnConstraints>
                   <ColumnConstraints hgrow="SOMETIMES" maxWidth="165.0" minWidth="10.0" prefWidth="102.0" />
                 <ColumnConstraints hgrow="SOMETIMES" maxWidth="284.0" minWidth="10.0" prefWidth="284.0" />
@@ -143,17 +143,17 @@
           <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
-            <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" GridPane.halignment="CENTER">
+            <ImageView fx:id="iVSearch" fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" GridPane.halignment="CENTER">
                <image>
                   <Image url="@buscar.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.halignment="CENTER">
+            <ImageView fx:id="iVCreate" fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.halignment="CENTER">
                <image>
                   <Image url="@plus.png" />
                </image>
             </ImageView>
-            <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.halignment="CENTER">
+            <ImageView fx:id="iVModify" fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" GridPane.halignment="CENTER">
                <image>
                   <Image url="@escribir.png" />
                </image>
