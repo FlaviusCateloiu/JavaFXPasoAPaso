@@ -148,7 +148,7 @@
                   <Image url="@buscar.png" />
                </image>
             </ImageView>
-            <ImageView fx:id="iVCreate" fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.halignment="CENTER">
+            <ImageView fx:id="iVCreate" fitHeight="50.0" fitWidth="50.0" onMouseClicked="#onCreateUserClick" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1" GridPane.halignment="CENTER">
                <image>
                   <Image url="@plus.png" />
                </image>

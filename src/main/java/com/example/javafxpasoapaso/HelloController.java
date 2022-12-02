@@ -17,7 +17,7 @@ public class HelloController {
     protected void onCreateUserClick() {
         tFCode.setDisable(false);
         tFFirstName.setDisable(false);
-        tFFirstName.setDisable(false);
+        tFLastName.setDisable(false);
         dPBirthdate.setDisable(false);
     }
 }
